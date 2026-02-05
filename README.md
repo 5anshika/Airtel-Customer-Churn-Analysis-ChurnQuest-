@@ -1,19 +1,19 @@
-Airtel Customer Churn Analysis (ChurnQuest)
-📌 Project Overview
+##Airtel Customer Churn Analysis (ChurnQuest)
+## 📌 Project Overview
 
 This project analyzes customer churn for a telecommunications company (Airtel scenario) using Excel-based data analysis. The goal was to identify key behavioral, pricing, and service-related factors that influence customer churn and provide actionable retention strategies.
 
-🎯 Business Problem
+## 🎯 Business Problem
 
 Airtel observed an increase in customer churn, which threatens revenue and market share.
 This project explores customer usage, plans, pricing, and service interactions to uncover why customers leave and how to reduce churn.
 
-📂 Dataset
+## 📂 Dataset
 
 Source: Kaggle – Customer Churn Prediction Dataset
 Customers analyzed: 4,250
 
-Key data includes:
+## Key data includes:
 
 Call usage (day, evening, night, international)
 
@@ -23,7 +23,7 @@ Customer service interactions
 
 Billing and tenure information
 
-🛠 Tools & Techniques
+## 🛠 Tools & Techniques
 
 Microsoft Excel
 
@@ -35,7 +35,7 @@ Correlation analysis
 
 Segmentation & bucketing (feature engineering)
 
-🔎 Feature Engineering
+## 🔎 Feature Engineering
 
 New analytical columns created:
 
@@ -45,7 +45,7 @@ intl_charge_bucket → Pricing sensitivity analysis
 
 vmail_message_bucket → Feature engagement analysis
 
-📊 Key Insights
+## 📊 Key Insights
 
 Churn rate: 14.1% (1 in 7 customers leave)
 
@@ -59,7 +59,7 @@ Voice mail users churn less → value-added features improve retention
 
 Pricing dissatisfaction is a bigger churn driver than usage volume
 
-💡 Business Recommendations
+##💡 Business Recommendations
 
 Trigger retention actions after 3 service calls
 
@@ -71,6 +71,6 @@ Improve billing transparency
 
 Promote value-added services like voicemail
 
-📈 Outcome
+## 📈 Outcome
 
 The project demonstrates how behavioral and pricing insights can help telecom companies design data-driven retention strategies and reduce revenue loss from churn.
