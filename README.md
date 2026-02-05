@@ -1,4 +1,4 @@
-##Airtel Customer Churn Analysis (ChurnQuest)
+## Airtel Customer Churn Analysis (ChurnQuest)
 ## 📌 Project Overview
 
 This project analyzes customer churn for a telecommunications company (Airtel scenario) using Excel-based data analysis. The goal was to identify key behavioral, pricing, and service-related factors that influence customer churn and provide actionable retention strategies.
@@ -59,7 +59,7 @@ Voice mail users churn less → value-added features improve retention
 
 Pricing dissatisfaction is a bigger churn driver than usage volume
 
-##💡 Business Recommendations
+## 💡 Business Recommendations
 
 Trigger retention actions after 3 service calls
 
